@@ -1,2 +1,4 @@
 Assets/Visual/** linguist-vendored
 Assets/TextMesh?Pro/** linguist-vendored
+Assets/Scripts/Level?Manager/** linguist-vendored
+Assets/TutorialInfo/** linguist-vendored
